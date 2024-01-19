@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">testing</string>
+    <string name="next">Next Item</string>
+    <string name="item0">Android</string>
+    <string name="item1">Manifest</string>
+    <string name="item2">Kotlin</string>
+    <string name="item3">Strings</string>
+    <string name="item4">Resoiurces</string>
+
+    <string name="name">Name</string>
+    <string name="nextIntent">Next</string>
+    <string name="prevIntent">Previous</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+
+    <string-array name="spinner">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
